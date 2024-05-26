@@ -107,8 +107,8 @@
         </p>
         <ul>
             <li>Sruthi Keerthi</li>
-            <li>Swaraj Reddy</li>
-            <li>Sai</li>
+            <li>Mamidi swaraj Chandra Reddy</li>
+            <li>N Sai Sri Chandra</li>
         </ul>
 
         <h2> Get in Touch</h2>
