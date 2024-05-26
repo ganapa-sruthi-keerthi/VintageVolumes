@@ -1,7 +1,7 @@
 # VintageVolumes
 <img src="VintageVolumesLogo.jpg" alt="VintageVolumesLogo" width="100"/>
 
-VintageVolumes is a web platform designed for students to buy and sell secondhand textbooks within their schools. The goal of this project is to create a convenient and cost-effective solution for students to exchange textbooks, helping them save money and reduce waste.
+VintageVolumes is a web platform designed for students to buy and sell secondhand textbooks within their college. The goal of this project is to create a convenient and cost-effective solution for students to exchange textbooks, helping them save money and reduce waste.
 
 
 ## Features
